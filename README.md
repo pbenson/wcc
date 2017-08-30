@@ -5,4 +5,4 @@
 My wife and I take classes: -->
 Our classes
 * [GDT 100: Typography](GDT100)
-* [GDT 106: Ilustrator Graphics](GDT106)
+* [GDT 106: Illustrator Graphics](GDT106)

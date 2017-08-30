@@ -2,7 +2,7 @@
 
 Here's the [schedule](Handouts/_GDT100-01_Schedule.pdf).
 
-Our first in-class assignment was creating a PDF that explained a descriptive used in typography. I was assigned [*bowl*](pbenson_bowl.pdf).
+Our first in-class assignment [Type Anatomy Research](Type_Anatomy_Research.pdf). We explored terms used to describe typography, and we each created a PDF that explained one of the terms. I was assigned [*bowl*](pbenson_bowl.pdf).
 
 ## article reviews
 
