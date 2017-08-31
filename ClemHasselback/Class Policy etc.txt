@@ -1,0 +1,77 @@
+Class Policy, Grades, Mechanics, etc. Goals of the Class:
+Learning to program is a lot like learning a foreign language (Spanish, German, etc.) or learning a musical instrument ... Practice is required.
+The assignments in this class are designed to provide the necessary practice. At times the assignments may seem challenging. The goal of this class is that if you do well and complete these assignments, you will end up having some valuable programming skills.
+It is important to stay caught up ... start the assignments early enough so that you can get help if you need it. Don't skip lectures, because each one has a purpose and in the end it may cost you some valuable information.
+If you are having trouble understanding a concept or doing an assignment - Get Help. You will find out that there are many options for getting help in this class. One of the saddest things is when I know I have students who are struggling but for whatever reason they don't make use of the help that is provided.
+Class Mechanics to achieve the above class goals:
+1. Blackboard is your starting place for everything. Buttons on the left provide you key course components.
+o Announcements - Regular emails are sent out on your wccnet.edu student email account. You should find a way to stay tuned to this email address on a regular basis. Most of the emails (at least the important ones) are archived in the "Announcements" section in blackboard.
+o Learning Units - This link gives you a step by step set of links to all of the course lectures. Note that this web site "Expands" and "Contracts" by clicking on the buttons at the top, or the "+"/"-" Icons on the left. Most of the entries contain 2 Icons which provide the lecture (the video icon looks like a video camera), and the text script that was used to produce the lecture (left icon).
+o JH...Homework files - This link takes you to a page containing all of the files that you need for the JH1, JH2 ... JH7 homework assignments. This link was added after the Class Policy was made so it isn't discussed in the video. It was discovered to be a useful link.
+o Assignments & Tests - This link takes you to all of the assignments and tests for this course. This will be discussed in more detail inside the startup folder under assignments and tests.
+o Discussion Board - Assignments come with required "Class Participation" requirements. Class Participation is done by posting entries on the discussion board. The details of this process can be found in the Startup section under "Discussion Board/Class Participation".
+
+o Getting Help - If you are needing help, especially on homework assignments, make sure you check out the details on the options available to you for getting help. For details (times, rooms, office phone number, etc.) click on the "Getting Help" button in blackboard. The options include:
+ Coming to Office Hours. You can also call me in my office during office hours.
+ Mixed Mode (MM) class times - you can attend these even if you are listed as a DL student or even a student in one of my other classes.
+ Group Study time - lab classroom with a trained facilitator
+ Use Class Participation question/answer discussion board options for
+asking other students
+ Use the "Questions for the Teacher" discussion board
+ Go-to-meeting-
+ Powerful tool for debugging problems remotely - We have an electronic tool called "Go-to Meeting" which allows the teacher to have an electronic meeting (voice and screen shared).
+ Scheduling Goto Meeting - The biggest challenge with this capability is scheduling the meeting. The easiest time is during office hours because you can call my office phone to set it up. MM section times are also possible, but these need to be pre-arranged usually through an email request. Send the email early enough to allow the instructor enough time to be aware of it before the desired MM section meeting time. Other times may be possible but are difficult to set up.
+ "Go-to-Meeting" button - The link for entering a meeting along with some tips on downloading and running the software
+ Email - Email is NOT an effective way to provide debugging help when you are stuck on an assignment... the above mentioned options are much more effective for getting debug help. Email is an effective way to setup a "Goto Meeting" time.
+o Go-to Meeting - Provides the link for startup up Go-to Meeting.
+2. Lectures - All lectures are available as videos. They can be watched online. In Startup,
+there is a link called "Video Features" which attempts to highlight the characteristics of the videos. In most cases, the video will be downloadable in a standard format such as MP4. Watch them actively (not like watching TV). Two ways to watch the videos actively are:
+o In most videos, a program is being worked on. Try to do the same program as the video progresses. You can pause the video to keep up. It is helpful if you can play the video on another monitor or another PC/tablet to free up your normal PC screen.
+o Take notes on the lecture. Although you can go back to the video at any point, it is productive for our minds to be writing down summarized concepts covered as you watch the video. You can also use your note taking as a way to get credit for "class participation" ... see the Class Participation/Discussion Board video for details.
+
+3. Lecture Characteristics - Because computer technology is always changing, the external web sites visited may look a little different. Some of these videos were created on a previous course that had a slightly different environment or formats. The navigational scheme has evolved and this does show up on some of the videos. In an attempt to make the videos more efficient for you, some video deletions have been made. These deletions may show up as minor discontinuities. Many of the deletions are related to Clem Hasselbach's asthma and needing to clear his throat and eliminating filler words like Um, OK, etc.
+Class Policy:
+1. I expect everyone to abide by the WCC Students Rights and Responsibilities which includes student conduct in the classroom and issues of cheating. Actions which negatively affect other students learning experience, or actions of cheating will not be tolerated. I have been known to give a student a flunking grade for a class who was caught cheating.
+2. Cheating clarified - I do encourage student-student interaction through group study sessions and requiring class participation on the discussion board, posting questions, answers, etc. However, there is a difference between answering questions and out right copying solutions from other students. Being caught on any cheating activity will result in a serious penalty.
+Most of my tests are "open book" and "open web". The "open web" means that you can access the lecture notes and solutions provided in the course. However, "open web" does not imply other cheating mechanisms are allowed. For example any of the following will be considered a violation of the cheating policy:
+o Posting a completed solution on a discussion board, or any other web site.
+o Copying a completed solution from a discussion board, or any other web site.
+o When taking a test, DO NOT USE web resources such as Stack-Overflow or test
+banks to assist you in answering a test question.
+o You will often be asked for your code and some output from your program. If
+your program does not work, then in the output box say that your program doesn't work and try to describe the problem you had. Making up an output that your program didn't really create will be considered cheating.
+
+Grades:
+1. Grade Composition
+o 60% - Homework - Note that each Homework assignment will include a class
+participation component. Class Participation is done through posting entries on a
+discussion board.
+o 40% - Tests - The nature of this component is discussed in each specific course.
+2. Rubric - Often at the top assignments, a Rubric link will show up that describes characteristics expected from your assignment. For example, the Rubric is likely to request "properly indented code".
+3. Penalties for Late Assignments
+o Submit your assignments before 11:59pm of the day the assignment is due.
+o First of all I want to state the obvious: avoiding lateness is a matter of getting
+started early enough to allow yourself to get help if you need it.
+o 25% deduction for assignments that are 1-6 days late
+o 40% deduction for assignments that are 7 days - 1 month late
+o If an assignment is more than 1 month late, then it is too late to get credit for it. o Extenuating Circumstances - I often get lots of requests for extensions for good
+reasons. My policy for these requests is as follows:
+ Turn in the assignment late with comments entered into the late
+assignment which document the good reason why you were late. The
+normal lateness penalty will show up.
+ Catch up and show a good track record for the rest of the course
+ Stop by on the last day of classes (I will schedule times when I am around)
+and we can look at how much the lateness deduction cost you on your grade. If you have an overall good track record especially at the end of the semester and good reasons for being late I will be inclined to waive some of your lateness penalty deduction.
+4. Grading Scale - The following is the default grading scale. At the end of the semester, a more generous scale than this posted grading scale may be considered.
+o 93 - 100 ==> A o 90 - 92 ==> A-
+-------------------------------------------------------------------------------- o 88-89 ==> B+
+o 82 - 87 ==> B
+o 80 - 81 ==> B-
+-------------------------------------------------------------------------------- o 78-79 ==> C+
+o 72 - 77 ==> C
+o 70 - 71 ==> C-
+-------------------------------------------------------------------------------- o 68-69 ==> D+
+o 62 - 67 ==> D
+o 60 - 61 ==> D-
+-------------------------------------------------------------------------------- o <= 59 ==> E
+ 
