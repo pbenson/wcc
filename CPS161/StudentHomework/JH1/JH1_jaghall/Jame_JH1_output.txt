@@ -1,0 +1,108 @@
+JH1 worksheet
+
+ Comments:
+
+ ***************** Class Participation *****************
+
+ Your Class Participation Entry for JH1:
+
+ Discussion board containing your entry: https://blackboard9.wccnet.edu/webapps/discussionboard/do/message?action=list_messages&course_id=_69708_1&nav=discussion_board_entry&conf_id=_95024_1&forum_id=_147370_1&message_id=_1562557_1
+
+ Date of your Entry: Sept 5
+
+ Subject Line of your entry: Creating an Array
+
+ ***************** primitive_variables *****************
+
+ primitive_variables output with good values for "num1" and "num2"
+
+ Enter first number;
+
+ 0.2
+
+ Enter second number;
+
+ 1.5
+
+ The answer =1.7
+
+ What happens when bad values (like "xyz") are entered for "num1" or "num2"
+ in the primitive_variables homework
+
+ An exception is thrown. "InputMismatchException" It's expecting a double but we're providing a string.
+
+ ***************** gas_mileage *****************
+
+ gas_mileage output with inputs of 300 miles and 12.3 gallons
+
+ 24.390243902439025 miles per gallon
+
+ ***************** averager *****************
+
+ averager output with inputs of 11, 15, and 24.
+
+ Enter int
+
+ 11
+
+ Enter int
+
+ 15
+
+ Enter int
+
+ 24
+
+ Average is: 16
+
+ ***************** jar *****************
+
+ Output from your jar program
+
+ Enter in the number of quarters
+
+ 2
+
+ Enter in the number of dimes
+
+ 1
+
+ Enter in the number of nickels
+
+ 2
+
+ Enter in the number of pennies
+
+ 3
+
+ Total: 73 cents
+
+ ***************** make_change *****************
+
+ Output from your make_change program
+
+ Enter price dollars
+
+ 2
+
+ Enter price cents
+
+ 2
+
+ Enter given dollars
+
+ 5
+
+ Enter given cents
+
+ 0
+
+ Dollars: 2
+
+ Quarters: 3
+
+ Dimes: 2
+
+ Dimes: 0
+
+ Pennies: 3

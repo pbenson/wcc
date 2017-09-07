@@ -1,0 +1,106 @@
+JH1 worksheet
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH1:
+Discussion board containing your entry: JH1 - Questions/Answers
+Date of your Entry: 9/5/17
+Subject Line of your entry: RE: Creating an array
+
+
+***************** primitive_variables    *****************
+primitive_variables output with good values for "num1" and "num2"
+
+"""
+Enter first number
+10
+Enter second number
+5
+The answer for multiply is 50.0
+The answer for divide is 2.0
+The answer for % is 0.0
+"""
+
+What happens when bad values (like "xyz") are entered for "num1" or "num2" 
+in the primitive_variables homework
+
+"""
+Enter first number
+xyz
+Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextDouble(Unknown Source)
+	at primitive_variables.PrimativeVariables.main(PrimativeVariables.java:12)
+"""
+
+***************** gas_mileage    *****************
+
+
+gas_mileage output with inputs of 300 miles and 12.3 gallons
+
+"""
+Enter the number of miles you have driven: 300
+
+Enter how many gallons of gas your car has consumed: 12.3
+
+Your car gets approximately: 24.39 miles per gallon of gas consumed.
+"""
+
+***************** averager    *****************
+
+
+averager output with inputs of 11, 15, and 24.
+
+"""
+Enter the first number: 11
+
+Enter the second number: 15
+
+Enter the third number: 24
+
+The value of num1 is: 11
+The value of num2 is: 15
+The value of num3 is: 24
+The average of these three numbers is: 16
+"""
+
+
+***************** jar    *****************
+
+
+Output from your jar program
+
+"""
+Enter in the number of Quarters in the Jar: 3
+
+Enter in the number of Dimes in the Jar: 2
+
+Enter in the number of Nickels in the Jar: 4
+
+Enter in the number of Pennies in the Jar: 6
+
+The Jar contains 121 cents.
+"""
+
+***************** make_change    *****************
+
+Output from your make_change program
+
+"""
+Enter price dollars: 5
+
+Enter price cents: 0
+
+Enter money received dollars: 7
+
+Enter money received cents: 68
+
+Change returned:
+2 dollar(s)
+2 quarter(s)
+1 dime(s)
+1 nickel(s)
+3 pennies
+"""

@@ -1,0 +1,70 @@
+JH1 worksheet
+
+ Comments:
+
+ ***************** Class Participation *****************
+ Your Class Participation Entry for JH1:
+ Discussion board containing your entry: ___JH! in Limiting Decimals - Float Point Precision_________________________
+ Date of your Entry: __________9/5_________________
+ Subject Line of your entry: ______RE: Limiting Decimals - Float Point Precision_______________________
+
+ ***************** primitive_variables *****************
+ primitive_variables output with good values for "num1" and "num2"
+ num1= 8989894.44 num2=4545454.09
+ The answer for multiply is 4.086315245096626E13
+ The answer for divide is 1.9777769749732528
+ The answer for % is 4444440.35
+
+ What happens when bad values (like "xyz") are entered for "num1" or "num2"
+ in the primitive_variables homework
+ _An exception occured Runtime, I presume.
+ Exception in thread "main" java.util.InputMismatchException
+ at java.util.Scanner.throwFor(Scanner.java:864)
+ at java.util.Scanner.next(Scanner.java:1485)
+ at java.util.Scanner.nextDouble(Scanner.java:2413)
+ at primitive_variables.Primitive_variables.main(Primitive_variables.java:15)
+
+ ***************** gas_mileage *****************
+
+ gas_mileage output with inputs of 300 miles and 12.3 gallons
+ ____24.390244 with a float 24.390243530273438 as a double_________________
+
+ ***************** averager *****************
+
+ averager output with inputs of 11, 15, and 24.
+ The average is 16.0
+ ____________________________________
+
+ ***************** jar *****************
+
+ Output from your jar program
+
+ Please enter the amount of Dimes:
+ 6
+ Please enter the amount of Nickles:
+ 2
+ Please enter the amount of Quarters:
+ 7
+ Total value: 1.7700000000000002 cents
+ ____________________________________
+
+ ***************** make_change *****************
+
+ Output from your make_change program
+
+ Enter the item price dollars:
+ 99
+ Enter the item price cents:
+ 99
+ Please enter the number of dollars given:
+ 100
+ Please enter the number of cents given:
+ 0
+ The return change is 1
+ Dollars: 0
+ Quarters: 0
+ Dimes: 0
+ Nickels: 0
+ Pennies: 1
+
+ ____________________________________
