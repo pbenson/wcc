@@ -12,6 +12,15 @@ We selected a typeface, and created a new 27th letter with Illustrator. I select
 
 ## [Workshop: Type classification](https://rawgit.com/pbenson/wcc/master/GDT100/Handouts/WORKSHOPS/04_classification.pdf)
 
+We reviewed these typography description terms:
+* Humanist
+* Transitional
+* Modern (or Didone)
+* Egyption Slab Serif
+* Humanist Sans Serif
+* Geometric Sans Serif
+and gathered [these examples](classification_examples).
+
 ### article reviews
 
 * [The Road to Clarity](the_road_to_clarity_notes.MD)
