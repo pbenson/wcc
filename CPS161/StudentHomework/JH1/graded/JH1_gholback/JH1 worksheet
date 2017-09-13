@@ -1,0 +1,90 @@
+JH1 worksheet
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH1:
+Discussion board containing your entry: JH1 - Questions/Answers
+Date of your Entry: September 6, 2017 
+Subject Line of your entry: How to deal with resource leaks?
+
+
+***************** primitive_variables    *****************
+primitive_variables output with good values for "num1" and "num2"
+
+Enter first number
+11
+Enter second number
+3
+The answer for multiply is 33.0
+The answer for divide is 3.6666666666666665
+The answer for % is 2.0
+
+
+What happens when bad values (like "xyz") are entered for "num1" or "num2" 
+in the primitive_variables homework
+
+It returned an error telling me that there was a "java.util.InputMismatchException". This is because the program was expecting a double and was given a string.
+
+
+***************** gas_mileage    *****************
+
+
+gas_mileage output with inputs of 300 miles and 12.3 gallons
+
+What was the distance being traveled? (Miles)
+300
+How much gas was there? (Gallons)
+12.3
+The car traveled 24.390243902439025 miles for every gallon of gas (MPG)
+
+
+***************** averager    *****************
+
+
+averager output with inputs of 11, 15, and 24.
+
+Enter three integers in order to find their average
+11
+15
+24
+The average of 11, 15, and 24 is 16
+
+
+***************** jar    *****************
+
+
+Output from your jar program
+
+How many quarters are in the jar?
+3
+How many dimes are in the jar?
+6
+How many nickels are in the jar?
+1
+How many pennies are in the jar?
+3
+
+The jar contains 1 dollar(s) and 43 cent(s)!
+
+
+
+***************** make_change    *****************
+
+Output from your make_change program
+
+Enter the price's dollars
+11
+Enter the price's cents
+73
+Enter the money received in dollars
+16
+Enter the money received in cents
+39
+
+Change returned:
+4 dollar(s)
+2 quarter(s)
+1 dime(s)
+1 nickel(s)
+1 penny(s)

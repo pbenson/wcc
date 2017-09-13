@@ -1,0 +1,109 @@
+import java.util.Scanner;
+public class MakeChange {
+	public static void main(String[] args) {
+		int cost_cents; 
+		int cost_dollars; 
+		int tender_cents;
+		int tender_dollars;
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter price cents:");
+		cost_cents = keyboard.nextInt();
+		System.out.println("Enter price dollars:");
+		cost_dollars = keyboard.nextInt();
+		System.out.println("Enter cents tended:");
+		tender_cents = keyboard.nextInt();
+		System.out.println("Enter dollars tended:");
+		tender_dollars = keyboard.nextInt();
+		keyboard.close();
+		int change_cents = ((tender_dollars * 100) + tender_cents)  - (cost_cents + (cost_dollars * 100));
+		int change_dollars = change_cents / 100;
+		int change_remaining = (change_cents % 100);
+		int change_quarters = (change_remaining)/25;
+		change_remaining = (change_remaining % 25);
+		int change_dimes = (change_remaining)/10;
+		change_remaining = (change_remaining % 10);
+		int change_nickles = (change_remaining)/5;
+		change_remaining = (change_remaining % 5);
+		int change_pennies = change_remaining;
+		System.out.println("The change in dollars is " + change_dollars);
+		System.out.println("The change in quarters is " + change_quarters);
+		System.out.println("The change in dimes is " + change_dimes);
+		System.out.println("The change in nickles is " + change_nickles);
+		System.out.println("The change in pennies is " + change_pennies);
+	}
+}
+import java.util.Scanner;
+public class Average {
+	public static void main(String[] args) {
+		double integer1; 
+		double integer2; 
+		double integer3; 
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter 1st integer:");
+		integer1 = keyboard.nextDouble();
+		System.out.println("Enter 2nd integer:");
+		integer2 = keyboard.nextDouble();
+		System.out.println("Enter 3rd integer:");
+		integer3 = keyboard.nextDouble();
+		keyboard.close();
+		double average = (integer1 + integer2 + integer3)/3;
+		System.out.println("The average is "+ average);
+	}
+}
+
+import java.util.Scanner;
+public class GasMileage {
+	public static void main(String[] args) {
+		double miles; 
+		double gallons; 
+		double mileage; 
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter miles traveled:");
+		miles = keyboard.nextDouble();
+		System.out.println("Enter gas Consumed:");
+		gallons = keyboard.nextDouble();
+		keyboard.close();
+		mileage = miles / gallons; 
+		System.out.println("Your gas mileage is "+ mileage +" miles per gallon.");
+	}
+}
+
+import java.util.Scanner;
+public class Jar {
+	public static void main(String[] args) {
+		double penny; 
+		double nickle; 
+		double dime;
+		double quarter;
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter number of pennies:");
+		penny = keyboard.nextDouble();
+		System.out.println("Enter enter number of nickles:");
+		nickle = keyboard.nextDouble();
+		System.out.println("Enter number of dimes:");
+		dime = keyboard.nextDouble();
+		System.out.println("Enter number of quarters:");
+		quarter = keyboard.nextDouble();
+		keyboard.close();
+		double total = penny + (nickle *5) + (dime * 10)+ (quarter * 25);
+		System.out.println("The jar contains " + total +" cents." );
+	}
+}
+
+import java.util.Scanner;
+public class PrimativeVariables {
+	public static void main(String[] args) {
+		double num1; // variable to hold our first input
+		double num2; // variable to hold our second input
+		double answer; // variable to hold our answer
+		// Open up the keyboard for user input
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter first number:");
+		num1 = keyboard.nextDouble();
+		System.out.println("Enter second number:");
+		num2 = keyboard.nextDouble();
+		keyboard.close();
+		answer = num1 + num2; // simple variable arithmetic
+		System.out.println("The answer ="+ answer);
+	}
+}

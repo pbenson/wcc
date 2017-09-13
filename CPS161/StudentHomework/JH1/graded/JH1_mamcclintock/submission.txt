@@ -1,0 +1,107 @@
+
+
+JH1 worksheet
+
+
+Comments: I tried to take a few of these problems a step further by thinking about possible errors/flow of control issues (i.e. for the “make_change” problem, what if the customer is not owed any change or pays less than the price of the item?
+
+
+***************** Class Participation    *****************
+
+Your Class Participation Entry for JH1: JH1 Suggestion - Use the Math Package!
+
+Discussion board containing your entry: Forum: JH1 - Questions/Answers
+
+Date of your Entry: 9/8/17 12:15 PM
+
+Subject Line of your entry: JH1 Suggestion - Use the Math Package!
+
+***************** primitive_variables    *****************
+
+primitive_variables output with good values for "num1" and "num2"
+Enter first number 2
+
+Enter second number3
+
+The answer for multiply is 6.0
+
+The answer for divide is 0.6666666666666666
+
+The answer for % is 2.0
+
+
+What happens when bad values (like "xyz") are entered for "num1" or "num2" in the primitive_variables homework
+
+When “bad values are entered the program throws an exception error and produces an error report of similar to the following:
+Exception in thread "main" java.util.InputMismatchException
+
+at java.util.Scanner.throwFor(Scanner.java:864)
+
+at java.util.Scanner.next(Scanner.java:1485)
+
+at java.util.Scanner.nextDouble(Scanner.java:2413)
+
+at primitive_variables.PrimativeVariables.main(PrimativeVariables.java:10)
+
+***************** gas_mileage    *****************
+
+gas_mileage output with inputs of 300 miles and 12.3 gallons
+Enter number of gallons of gas used by car: 12.3
+
+Enter number of miles traveled 300
+
+The MPG is 24.390243902439025
+
+***************** averager    *****************
+
+averager output with inputs of 11, 15, and 24.
+Enter integer 1: 11
+
+Enter integer 2: 15
+
+Enter integer 3: 24
+
+You have entered:
+
+Integer 1: 11
+
+Integer 2: 15
+
+Integer 3: 24
+
+The average of these integers is 16.666666666666668
+
+***************** jar    *****************
+
+Output from your jar program
+Enter the number of pennies: 3
+
+Enter the number of nickels: 2
+
+Enter the number of dimes: 1
+
+Enter the number of quarters: 2
+
+The jar contains: 73 cents.
+
+***************** make_change    *****************
+Enter Price Dollars: 3
+
+Enter Price Cents: 51
+
+Enter Dollars Tendered: 5
+
+Enter Cents Tendered: 0
+
+Change returned:
+
+Dollars:1
+
+Quarters:1
+
+Dimes:2
+
+Nickels:0
+
+Pennies:4
+____________________________________

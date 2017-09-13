@@ -1,0 +1,130 @@
+JH1 worksheet
+
+Comments:  
+***************** Class Participation    *****************
+Your Class Participation Entry for JH1: "Thread: Error Message"
+Discussion board containing your entry: _JH1 Questions/Answers___________________________
+Date of your Entry: ____9/10/2017_______________________
+Subject Line of your entry: __RE: Error Message___________________________
+
+
+***************** primitive_variables    *****************
+primitive_variables output with good values for "num1" and "num2"
+
+	With good values, the output totaled the numbers successfully for each command using the double variable type.
+
+	Results:
+Enter value a:
+13135275155.12484167286
+Enter value b:
+12484167286.13135275155
+The answer for addition = 2.5619442441256195E10
+The answer for multiply = 1.639829723859435E20
+The answer for divide = 1.0521546895415927
+The answer for remainder (%) = 6.511078689934883E8
+
+	
+
+___________________________________
+
+What happens when bad values (like "xyz") are entered for "num1" or "num2" 
+in the primitive_variables homework
+
+	Error codes populate when a numerical value is not used.
+
+	Results:
+
+	Enter first number:
+	ghga;g
+	Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextDouble(Unknown Source)
+	at primitive_variables.PrimitiveVariables.main(PrimitiveVariables.java:16)
+____________________________________
+
+
+***************** gas_mileage    *****************
+
+
+gas_mileage output with inputs of 300 miles and 12.3 gallons
+
+Results of code are as follows: 
+
+
+Enter your mileage driven: 
+300
+Enter your gallons used: 
+12.3
+Your car averages 24.390243902439025 MPG.
+
+____________________________________
+
+
+***************** averager    *****************
+
+
+averager output with inputs of 11, 15, and 24.
+
+Here are my results for this program:
+
+Let's find the average of 3 numbers.
+Enter value a: 
+11
+Enter value b: 
+15
+Enter value c: 
+24
+The average value of a + b + c = 16
+____________________________________
+
+
+***************** jar    *****************
+
+
+Output from your jar program
+
+My output is as follows:
+
+Enter in the amount of quarters in the Jar: 
+2
+Enter in the amount of dimes in the Jar: 
+1
+Enter in the amount of nickels in the Jar: 
+2
+Enter in the amount of pennies in the Jar: 
+3
+The Jar contains 73 cents.
+
+____________________________________
+
+
+***************** make_change    *****************
+
+Output from your make_change program
+
+Results from code are as follows...
+
+Enter price in dollars: 
+3
+Enter price in cents: 
+51
+The cost in pennies is: 351
+
+Enter money received in dollars: 
+5
+Enter money received in cents: 
+0
+
+The money received in pennies is: 500
+The change to return in pennies is: 149
+
+The change to return in dollars = 1
+The change to return in cents = 49
+
+Dollars returned = 1
+Quarters returned = 1
+Dimes returned = 2
+Nickels returned = 0
+Pennies returned = 4
+____________________________________

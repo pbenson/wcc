@@ -1,0 +1,77 @@
+JH1 worksheet
+
+Comments: 
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH1:
+Discussion board containing your entry: ________NA____________________
+Date of your Entry: ______________NA_____________
+Subject Line of your entry: ________________NA_____________
+
+
+***************** primitive_variables    *****************
+primitive_variables output with good values for "num1" and "num2"
+_______Yes_____________________________
+
+What happens when bad values (like "xyz") are entered for "num1" or "num2" 
+in the primitive_variables homework
+____________this error________________________
+Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextDouble(Unknown Source)
+	at primitive_variables.PrimitveVariables.main(PrimitveVariables.java:13)
+
+***************** gas_mileage    *****************
+
+
+gas_mileage output with inputs of 300 miles and 12.3 gallons
+Enter Number of Gallons
+12.3
+Enter Number of Miles
+300
+ you get 24 miles per gallon
+
+***************** averager    *****************
+
+
+averager output with inputs of 11, 15, and 24.
+Enter 1st number
+11
+Enter 2nd number
+15
+Enter 3rd number
+24
+your average is 16.666666666666668
+
+***************** jar    *****************
+
+
+Output from your jar program
+enter number of quarters
+2
+enter number of dimes
+1
+enter number of nickles
+2
+enter number of penies
+3
+you have 73 cents 
+
+
+***************** make_change    *****************
+
+Output from your make_change program
+Enter Price Dollars
+3
+Enter Price Cents
+51
+Enter Received Dollars
+5
+Enter Received Cents
+0
+Number of Dollars 1
+Number of Quarters 1
+Number of Dimes 2
+Number of Nickels 0
+Number of Pennies 4
