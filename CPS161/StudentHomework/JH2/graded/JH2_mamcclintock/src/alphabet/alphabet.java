@@ -4,35 +4,24 @@ public class alphabet {
 	public static void main(String[] args) {
 	
 	// Declare variables that store the ASCII values for 'a' and 'z'
-	int asciiCurrent = 97;
-	int asciiEnd = 122;
+	char startLetter = 'a';
 	
 	// Iterative while loop to implement program
-	while (asciiCurrent<=asciiEnd){
-		System.out.print((char)asciiCurrent + " is a ");
-		if (((char)asciiCurrent)==('a')){
+	while (startLetter!='z'){
+		System.out.print(startLetter + " is a ");
+		// Implement switch statement
+		switch(startLetter){
+		case 'a': case 'e': case 'i': case 'o': case 'u': case 'y':
 			System.out.println("vowel.");
-		}
-		else if (((char)asciiCurrent)==('e')){
-			System.out.println("vowel.");
-		}
-		else if (((char)asciiCurrent)==('i')){
-			System.out.println("vowel.");
-		}
-		else if (((char)asciiCurrent)==('o')){
-			System.out.println("vowel.");
-		}
-		else if (((char)asciiCurrent)==('u')){
-			System.out.println("vowel.");
-		}
-		else if (((char)asciiCurrent)==('y')){
-			System.out.println("vowel.");
-		}
-		else System.out.println("consonant.");
-		
+			break;
+		default:
+			System.out.println("consonant.");
+			break;
+			}
 		// Increment ASCII value
-		asciiCurrent = asciiCurrent+1;
+		startLetter +=1;
 		}
 	}
-}
+	}
+
 

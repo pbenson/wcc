@@ -4,7 +4,7 @@ import util.Util;
 
 public class Bounds
 {
-	public static void main()
+	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
 		
@@ -15,7 +15,7 @@ public class Bounds
 		for(int i=0; number<upper; number+=step)
 		{
 			i++;
-			System.out.print(i);
+			System.out.print(number);
 			if(i % 10 == 0) System.out.print("\n");
 			else System.out.print('\t');
 		}
