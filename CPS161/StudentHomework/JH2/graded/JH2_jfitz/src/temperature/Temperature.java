@@ -27,8 +27,8 @@ public class Temperature {
 		}
 		
 		System.out.printf("Average: F(%f) C(%f)", 
-						 totalTempCentigrade / userInputs, 
-						 toFarenheit(totalTempCentigrade) / userInputs);
+							toFarenheit(totalTempCentigrade / userInputs), 
+							totalTempCentigrade/ userInputs);
 		
 		keyboard.close();
 		

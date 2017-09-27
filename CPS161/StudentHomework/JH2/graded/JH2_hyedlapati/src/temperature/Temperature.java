@@ -21,24 +21,33 @@ public class Temperature {
 		centigrade = keyboard.nextDouble();
 		
 		farenheit = 1.8*centigrade + 32;
-	
+		
+		sumCent = sumCent + centigrade;
+		sumFar = sumFar + farenheit;
+		
 		while (centigrade > -100) {
-			
+				
 			System.out.println("Centigrade: "+ centigrade);
 			System.out.println("Fahrenheit: "+ farenheit);
 			System.out.println("Enter Temp in Centigrade or <= -100.0 to quit: ");
 			centigrade = keyboard.nextDouble();
 			
-			if (centigrade <= -100) {
-				break;
-			}
+			
 			CentCount ++;
 			FarCount ++;
 			
+			if (centigrade <= -100) {
+				break;
+			}
+			
 			farenheit = 1.8*centigrade + 32;
+
 			
 			sumCent = sumCent + centigrade;
 			sumFar = sumFar + farenheit;
+						
+			
+			
 		
 		}	
 		avgCent = sumCent/CentCount;

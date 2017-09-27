@@ -78,7 +78,6 @@ v is a consonant.
 w is a consonant.
 x is a consonant.
 y is a vowel.
-z is a consonant.
 
 ***************** factorial    *****************
 
