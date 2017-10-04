@@ -29,17 +29,19 @@ public class Temperature {
 		countF++;
 		System.out.println(" F (" + f + ") " + "C(" + c +")");
 		
-	} while (c > -100);  	
+	} while (c > -100);{  	
 	
 		
-	do {
+	//do {
 	
 		average_f = (sumF / countF);
 	average_c = (sumC / count);
 	System.out.println("Average: Farenheit(" + average_f + ")"
 			+ " Average: Celcius(" + average_c + ")");
+	keyboard.close();
 	} while (c <= -100);
 	return;
+	
 	}}
 
 

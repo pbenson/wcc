@@ -21,14 +21,14 @@ public class Bounds {
 	    System.out.println("Lower: " + lower + "\nUpper: " + upper + "\nStep Size: " + stepSize);
 	    
 	    int count = 0;
-	    String output = "";
 	    
-	    for (int i = lower; i < upper; i += stepSize) {
-	    	
-			// The example had the output on one line
-			// but println prints on a new line each time
-			// so this is how I got the values on one line.
-	    		if (count == 10 ) {
+	    String output = "";
+	    int i = lower;
+	    
+	    for (int step = 0; i < upper; step += 1) {
+	    		i = lower + (stepSize * step);
+	    		
+	    		if (count == 10 || i >= upper) {
 	    			System.out.println(output);
 	    			count = 0;
 	    			output = i + ", ";

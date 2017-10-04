@@ -13,6 +13,7 @@ public class Bounds {
 		
 		int Constant = 0;
 		int Solution = 0;
+		int i = 0;
 		
 		
 		Scanner keyboard = new Scanner(System.in);
@@ -34,8 +35,10 @@ public class Bounds {
 				
 				Solution = StartNum + (Constant * StepSize);
 				System.out.print(Solution + " ");
+				i++;
 				Constant++;
-			
+			if (i % 10 == 0)
+				System.out.println();
 		}
 		
 		

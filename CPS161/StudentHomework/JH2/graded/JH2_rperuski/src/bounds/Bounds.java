@@ -15,8 +15,17 @@ public class Bounds {
 		System.out.println("Enter the step size:");
 		int c=keyboard.nextInt();
 		keyboard.close();
+		
+		int count = 0;
 		for(int i=a; i<=b; i+=c) {
-			System.out.println(i + " ");
+			
+			System.out.print(" " + i);
+			
+			count++;
+			   if(count % 10 == 0) {
+			      System.out.print("\n");
+			   }
+			   
 		}
 		
 	

@@ -56,7 +56,32 @@ Temperature : F(61.16) C(16.2)
 
 alphabet output as specified in the JH2 homework.
 ____________________________________
-
+a is a vowel.
+b is a consonant.
+c is a consonant.
+d is a consonant.
+e is a vowel.
+f is a consonant.
+g is a consonant.
+h is a consonant.
+i is a vowel.
+j is a consonant.
+k is a consonant.
+l is a consonant.
+m is a consonant.
+n is a consonant.
+o is a vowel.
+p is a consonant.
+q is a consonant.
+r is a consonant.
+s is a consonant.
+t is a consonant.
+u is a vowel.
+v is a consonant.
+w is a consonant.
+x is a consonant.
+y is a vowel.
+z is a consonant.
 
 
 ***************** factorial    *****************
@@ -64,3 +89,19 @@ ____________________________________
 
 factorial output as specified in the JH2 homework.
 ____________________________________
+Enter N: 
+3
+Factorial = 6
+Do you want to continue (y/n)?:
+y
+Enter N: 
+4
+Factorial = 24
+Do you want to continue (y/n)?:
+y
+Enter N: 
+6
+Factorial = 720
+Do you want to continue (y/n)?:
+n
+Have a nice day!
