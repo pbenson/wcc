@@ -33,9 +33,13 @@ public class BreakingItDown {
 			if (strOperator.length() == 0)
 				continue;
 			operator = strOperator.charAt(0);
-			
+
 			switch (operator) {
-			case 'q': case '+': case '-': case '*': case '/':
+			case 'q':
+			case '+':
+			case '-':
+			case '*':
+			case '/':
 				isGood = true;
 				break;
 			default:
@@ -61,13 +65,13 @@ public class BreakingItDown {
 		// Note that Integer.parseInt is picky and blows up with any bad characters
 		// ***********************************
 		boolean isGood = false;
-		String input  = "";
+		String input = "";
 		while (!isGood) {
 			isGood = true;
-			System.out.println("Enter operand " + which);			
+			System.out.println("Enter operand " + which);
 			input = scan.nextLine();
 			input = input.trim();
-			
+
 			if (input.length() == 0)
 				isGood = false;
 			for (int i = 0; i < input.length(); i++) {
