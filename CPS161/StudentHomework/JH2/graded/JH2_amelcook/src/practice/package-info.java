@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ambam
- *
- */
-package practice;

@@ -1,0 +1,30 @@
+JH4 worksheet
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH4:
+Discussion board containing your entry: ____________________________
+Date of your Entry: ___________________________
+Subject Line of your entry: _____________________________
+
+
+***************** roman_calculator   *****************
+roman_calculator  output as specified in the JH4 homework.
+____________________________________
+
+
+
+***************** Debugger JING video debugging roman_calculator   *****************
+Paste in your JING URL for your debug session on the Roman Calculator:
+
+____________________________________
+
+*****************Hangman: object_oriented    *****************
+object_oriented Hangman output as specified in the JH4 homework.
+____________________________________
+
+***************** Hangman: static_approach    *****************
+
+static_approach Hangman output as specified in the JH4 homework.
+____________________________________

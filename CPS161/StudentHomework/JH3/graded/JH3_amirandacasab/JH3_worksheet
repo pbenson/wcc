@@ -1,0 +1,109 @@
+JH3 worksheet - amirandacasab
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH3:
+Discussion board containing your entry: ____________________________
+Date of your Entry: ___________________________
+Subject Line of your entry: _____________________________
+
+***************** learning_enrichment_sine_calculator    *****************
+
+Output from the Sine_Caculator  specified in the JH3 homework.
+
+Enter the angle for Sine Calculation:
+10
+N = 3 Guess = 0.01768296088268335 Delta = 9.216830827961375E-7
+N = 5 Guess = 0.017682960897094775 Delta = 1.4411423443494442E-11
+*****DONE*****
+My guess = 0.017682960897094775 vs. Math.sin(angle) = 0.017682960897094667
+
+Enter the angle for Sine Calculation:
+35
+N = 3 Guess = 0.06185407181800664 Delta = 3.9517162174880494E-5
+N = 5 Guess = 0.0618540793871562 Delta = 7.5691495640684E-9
+*****DONE*****
+My guess = 0.0618540793871562 vs. Math.sin(angle) = 0.06185407938646585
+
+Enter the angle for Sine Calculation:
+90
+N = 3 Guess = 0.158483036124537 Delta = 6.719069673583322E-4
+N = 5 Guess = 0.1584838871046524 Delta = 8.509801153744334E-7
+N = 7 Guess = 0.15848388659142434 Delta = 5.132280433972625E-10
+*****DONE*****
+My guess = 0.15848388659142434 vs. Math.sin(angle) = 0.15848388659160487
+
+***************** newton    *****************
+
+Newton Square root output as specified in the JH3 homework.
+
+Enter a number for Square Root Calculation:
+200
+Guess = 51.0 Delta = 49.0
+Guess = 27.46078431372549 Delta = 23.53921568627451
+Guess = 17.371948743795983 Delta = 10.088835569929508
+Guess = 14.442380948662318 Delta = 2.9295677951336643
+Guess = 14.145256551487378 Delta = 0.2971243971749402
+Guess = 14.142135968022693 Delta = 0.003120583464685467
+Guess = 14.142135623730955 Delta = 3.4429173823014025E-7
+My guess = 14.142135623730955 vs. Math.sqrt(N) = 14.142135623730951
+
+*****************string_methods    *****************
+
+string_methods output as specified in the JH3 homework.
+
+Enter in the desired String: 
+Aardvarks get big and bigger as You feed them big and bigger ants who Feed on apples.
+***************************************
+Analyzing: myStr=Aardvarks get big and bigger as You feed them big and bigger ants who Feed on apples.
+Number of Upper case letters=3
+Number of Lower case letters=65
+Number of big is 4
+Number of a is 7
+***************************************
+Analyzing: myStr=Parked in a van down by the river bank .... The van evan vanished near a lot of other vans
+Number of Upper case letters=2
+Number of Lower case letters=65
+Number of van is 5
+Number of a is 10
+***************************************
+Analyzing: myStr=the elephant in the room wouldn't budge
+Number of Upper case letters=0
+Number of Lower case letters=32
+Number of the is 2
+Number of i is 1
+
+***************** breaking_it_down    *****************
+
+BreakingItDown output as specified in the JH3 homework.
+
+Enter an Operator: +  -  *  /  q for quit: +
+Enter operand 1
+123
+Enter operand 2
+45
+123 + 45 = 168
+=======================
+Enter an Operator: +  -  *  /  q for quit: -
+Enter operand 1
+12x
+Your last input was bad, try again
+56
+Enter operand 2
+67
+56 - 67 = -11
+=======================
+Enter an Operator: +  -  *  /  q for quit: @
+Your operator is bad ... try again:
+Enter an Operator: +  -  *  /  q for quit: *
+Enter operand 1
+23!
+Your last input was bad, try again
+23
+Enter operand 2
+45
+23 * 45 = 1035
+=======================
+Enter an Operator: +  -  *  /  q for quit: q
+Finished Calculations
