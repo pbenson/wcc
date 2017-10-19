@@ -6,17 +6,18 @@ public class Newton {
 	public static void main(String[] args) {
 		System.out.println("Please enter a number");
 		Scanner input = new Scanner(System.in);
-		double number = input.nextDouble();
+		int number = input.nextInt();
 		
 		double guess = number/2;
 		double sqrt = Math.sqrt(number);
-		double delta = guess - sqrt;
+		double delta=1;
 		
 		while (delta> .000001) {
 			double new_guess = ((number/guess) + guess)/2;
 			
+			delta = guess - new_guess;
 			guess = new_guess;
-			delta = guess-sqrt;
+			
 		
 		}
 		

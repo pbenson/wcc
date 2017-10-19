@@ -22,7 +22,7 @@ public class SineCalculator {
 		while(delta >= .00000001) {
 			n += 2;
 			xPower = xPower * angle_radians * angle_radians;
-			nfactorial = nfactorial * n * (n*1);
+			nfactorial = nfactorial * n * (n-1);
 			sign = -sign;
 			double next_term = sign * xPower / nfactorial;
 			
