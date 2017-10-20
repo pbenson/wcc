@@ -12,7 +12,7 @@ public class Newton {
 		double sqrt = Math.sqrt(number);
 		double delta=1;
 		
-		while (delta> .000001) {
+		while (Math.abs(delta)> .000001) {
 			double new_guess = ((number/guess) + guess)/2;
 			
 			delta = guess - new_guess;
