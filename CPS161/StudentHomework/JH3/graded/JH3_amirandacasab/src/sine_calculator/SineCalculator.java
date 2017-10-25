@@ -8,7 +8,7 @@ public class SineCalculator {
 		System.out.println("Enter the angle for Sine Calculation:");
 		Scanner keyboard = new Scanner(System.in);
 		double angle_degrees = keyboard.nextDouble();
-		double angle_radians = angle_degrees / (Math.PI * 180.0);
+		double angle_radians = angle_degrees * Math.PI / 180.0;
 		
 		keyboard.close();
 		

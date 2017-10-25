@@ -13,6 +13,7 @@ public class NewtonSqrt {
 		
 		double delta = 42;
 		double guess = N / 2;
+		int count = 0;
 		
 		while(delta >= 0.000001)
 		{
@@ -23,8 +24,10 @@ public class NewtonSqrt {
 				delta = -delta;
 			guess = new_guess;
 			
+			count += 1;
 			System.out.println("Guess = " + guess + " Delta = " + delta);
 		}
+		System.out.println(count + " iterations through Newton's algorithim were neccessary to determine the answer.");
 		System.out.println("My guess = " + guess + " vs. Math.sqrt(N) = " + Math.sqrt(N));
 	}
 }
