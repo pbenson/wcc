@@ -1,0 +1,170 @@
+JH4 worksheet
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH4:
+Discussion board containing your entry: ____________________________
+Date of your Entry: ___________________________
+Subject Line of your entry: _____________________________
+
+***************** roman_calculator   *****************
+
+Operator: + - * / q for quit: +
+Enter operand1: M
+Enter operand2: mCxV
+Answer = MMCXV
+
+Operator: + - * / q for quit: -
+Enter operand1: XX
+Enter operand2: v
+Answer = XV
+
+Operator: + - * / q for quit: *
+Enter operand1: x
+Enter operand2: lx
+Answer = DC
+
+Operator: + - * / q for quit: /
+Enter operand1: dc
+Enter operand2: x
+Answer = LX
+
+Operator: + - * / q for quit: +
+Enter operand1: mmc
+Enter operand2: lxvii
+Answer = MMCLXVII
+
+Operator: + - * / q for quit: -
+Enter operand1: m
+Enter operand2: cxi
+Answer = DCCCLXXXVIIII
+
+Operator: + - * / q for quit: ^
+Your operand is bad ... try again:  
+Operator: + - * / q for quit: +
+Enter operand1: axi
+AXI has a bad character at position: 0
+Enter operand1: xi
+Enter operand2: xi8i
+XI8I has a bad character at position: 2
+Enter operand2: xii
+Answer = XXIII
+
+Operator: + - * / q for quit: q
+Finished Roman Computations
+
+***************** Debugger JING video debugging roman_calculator   *****************
+
+Saved as Debug.mp4 in the assignment file.
+
+*****************Hangman: object_oriented    *****************
+
+Current status for user inputs: 
+ _ _ _ _ _ _ _ _ _
+Enter next letter: a
+Current status for user inputs: a
+ _ _ _ _ _ _ _ _ _
+Enter next letter: i
+Current status for user inputs: ai
+ _ _ _ _ _ _ i _ _
+Enter next letter: e
+Current status for user inputs: aie
+ _ _ _ _ _ _ i _ e
+Enter next letter: s
+Current status for user inputs: aies
+ _ _ _ _ _ _ i _ e
+Enter next letter: o
+Current status for user inputs: aieso
+ _ o _ _ _ _ i _ e
+Enter next letter: m
+Current status for user inputs: aiesom
+ _ o _ _ _ _ i _ e
+Enter next letter: p
+Current status for user inputs: aiesomp
+ p o _ _ _ p i _ e
+Enter next letter: rcun
+Current status for user inputs: aiesomprcun
+ p o r c u p i n e
+Congratulations: you guessed the word!!!
+Do you want to play object oriented Hangman again? (y or n): y
+Current status for user inputs: 
+ _ _ _ _ _ _ _ _
+Enter next letter: m
+Current status for user inputs: m
+ _ _ _ _ _ _ _ _
+Enter next letter: n
+Current status for user inputs: mn
+ _ _ _ _ _ _ n _
+Enter next letter: y
+Current status for user inputs: mny
+ _ _ _ _ _ _ n _
+Enter next letter: a
+Current status for user inputs: mnya
+ _ _ _ _ _ a n _
+Enter next letter: e
+Current status for user inputs: mnyae
+ e _ e _ _ a n _
+Enter next letter: lpht
+Current status for user inputs: mnyaelpht
+ e l e p h a n t
+Congratulations: you guessed the word!!!
+Do you want to play object oriented Hangman again? (y or n): n
+Bye
+
+***************** Hangman: static_approach    *****************
+
+Current status for user inputs: 
+ _ _ _ _ _ _
+Enter next letter: m
+Current status for user inputs: m
+ _ _ m _ _ _
+Enter next letter: s
+Current status for user inputs: ms
+ s _ m _ _ _
+Enter next letter: i
+Current status for user inputs: msi
+ s i m _ _ _
+Enter next letter: l
+Current status for user inputs: msil
+ s i m _ l _
+Enter next letter: p
+Current status for user inputs: msilp
+ s i m p l _
+Enter next letter: e
+Current status for user inputs: msilpe
+ s i m p l e
+Congratulations: you guessed the word!!!
+Do you want to play object oriented Hangman again? (y or n): y
+Current status for user inputs: 
+ _ _ _ _ _ _ _ _
+Enter next letter: m
+Current status for user inputs: m
+ _ _ _ _ _ _ _ _
+Enter next letter: o
+Current status for user inputs: mo
+ _ _ _ _ _ _ _ _
+Enter next letter: s
+Current status for user inputs: mos
+ _ _ _ _ _ _ _ _
+Enter next letter: a
+Current status for user inputs: mosa
+ _ a _ _ _ _ _ _
+Enter next letter: r
+Current status for user inputs: mosar
+ _ a r _ _ _ _ _
+Enter next letter: b
+Current status for user inputs: mosarb
+ b a r b _ _ _ _
+Enter next letter: e
+Current status for user inputs: mosarbe
+ b a r b e _ _ e
+Enter next letter: q
+Current status for user inputs: mosarbeq
+ b a r b e q _ e
+Enter next letter: u
+Current status for user inputs: mosarbequ
+ b a r b e q u e
+Congratulations: you guessed the word!!!
+Do you want to play object oriented Hangman again? (y or n): n
+Bye

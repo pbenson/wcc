@@ -1,0 +1,197 @@
+JH4 worksheet
+
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH4:
+Discussion board containing your entry: ____________________________
+Date of your Entry: ___________________________
+Subject Line of your entry: _____________________________
+
+***************** roman_calculator   *****************
+roman_calculator  output as specified in the JH4 homework.
+Enter an operator (+, -, *, /, or 'q' to quit): +
+Enter operand 1: M
+Enter operand 2: mCxV
+Result:          MMCXV
+
+Enter an operator (+, -, *, /, or 'q' to quit): -
+Enter operand 1: XX
+Enter operand 2: v
+Result:          XV
+
+Enter an operator (+, -, *, /, or 'q' to quit): *
+Enter operand 1: x
+Enter operand 2: lx
+Result:          DC
+
+Enter an operator (+, -, *, /, or 'q' to quit): /
+Enter operand 1: dc
+Enter operand 2: x
+Result:          LX
+
+Enter an operator (+, -, *, /, or 'q' to quit): +
+Enter operand 1: mmc
+Enter operand 2: lxvii
+Result:          MMCLXVII
+
+Enter an operator (+, -, *, /, or 'q' to quit): -
+Enter operand 1: m
+Enter operand 2: cxi
+Result:          DCCCLXXXVIIII
+
+Enter an operator (+, -, *, /, or 'q' to quit): ^
+Invalid operator: ^
+Enter an operator (+, -, *, /, or 'q' to quit): +
+Enter operand 1: axi
+Invalid character at position 0
+Enter operand 1: xi
+Enter operand 2: xi8i
+Invalid character at position 2
+Enter operand 2: xii
+Result:          XXIII
+
+Enter an operator (+, -, *, /, or 'q' to quit): q
+Finished Roman Computations
+
+***************** Debugger JING video debugging roman_calculator   *****************
+Paste in your JING URL for your debug session on the Roman Calculator:
+
+https://www.screencast.com/t/cv8WIcy51
+
+*****************Hangman: object_oriented    *****************
+object_oriented Hangman output as specified in the JH4 homework. 
+_ _ _ _ _ _ _ _ _ _ _ _ _ 
+Enter your guess: e
+_ _ _ _ _ _ _ _ _ _ _ _ _ 
+Enter your guess: a
+_ _ _ _ _ _ _ _ a _ _ _ _ 
+Enter your guess: i
+_ _ _ _ _ i _ _ a _ i _ _ 
+Enter your guess: o
+_ _ _ _ _ i o _ a _ i _ _ 
+Enter your guess: u
+_ u _ _ _ i o _ a _ i _ _ 
+Enter your guess: d
+_ u _ _ _ i o _ a _ i _ _ 
+Enter your guess: f
+f u _ _ _ i o _ a _ i _ _ 
+Enter your guess: n
+f u n _ _ i o n a _ i _ _ 
+Enter your guess: c
+f u n c _ i o n a _ i _ _ 
+Enter your guess: t
+f u n c t i o n a _ i t _ 
+Enter your guess: l
+f u n c t i o n a l i t _ 
+Enter your guess: y
+f u n c t i o n a l i t y 
+Do you want to play object oriented Hangman again? (y or n): y
+_ _ _ _ _ _ _ _ _ 
+Enter your guess: a
+_ _ _ _ _ _ _ _ _ 
+Enter your guess: b
+_ _ _ _ _ _ _ _ _ 
+Enter your guess: c
+c _ _ _ _ _ _ _ _ 
+Enter your guess: d
+c _ _ _ _ _ _ _ _ 
+Enter your guess: e
+c _ _ _ _ _ _ _ _ 
+Enter your guess: f
+c _ _ f _ _ _ _ _ 
+Enter your guess: g
+c _ _ f _ _ _ _ _ 
+Enter your guess: h
+c _ _ f _ _ _ _ _ 
+Enter your guess: i
+c _ _ f _ _ i _ _ 
+Enter your guess: j
+c _ _ f _ _ i _ _ 
+Enter your guess: k
+c _ _ f _ _ i _ _ 
+Enter your guess: l
+c _ _ f _ _ i _ _ 
+Enter your guess: m
+c _ _ f _ _ i _ _ 
+Enter your guess: n
+c _ n f _ _ i _ n 
+Enter your guess: o
+c o n f _ _ i o n 
+Enter your guess: p
+c o n f _ _ i o n 
+Enter your guess: q
+c o n f _ _ i o n 
+Enter your guess: r
+c o n f _ _ i o n 
+Enter your guess: s
+c o n f _ s i o n 
+Enter your guess: t
+c o n f _ s i o n 
+Enter your guess: u
+c o n f u s i o n 
+Do you want to play object oriented Hangman again? (y or n): n
+Bye
+
+***************** Hangman: static_approach    *****************
+
+static_approach Hangman output as specified in the JH4 homework.
+_ _ _ _ _ _ _ _ _ 
+Enter your guess: e
+_ e _ _ _ _ _ e _ 
+Enter your guess: f
+_ e _ _ _ _ _ e _ 
+Enter your guess: c
+_ e _ c _ _ _ e _ 
+Enter your guess: d
+d e _ c _ _ _ e _ 
+Enter your guess: a
+d e _ c _ _ _ e _ 
+Enter your guess: r
+d e _ c r _ _ e _ 
+Enter your guess: s
+d e s c r _ _ e s 
+Enter your guess: t
+d e s c r _ _ e s 
+Enter your guess: g
+d e s c r _ _ e s 
+Enter your guess: h
+d e s c r _ _ e s 
+Enter your guess: j
+d e s c r _ _ e s 
+Enter your guess: o
+d e s c r _ _ e s 
+Enter your guess: i
+d e s c r i _ e s 
+Enter your guess: b
+d e s c r i b e s 
+Do you want to play static Hangman again? (y or n): y
+_ _ _ _ _ _ _ _ _ _ 
+Enter your guess: e
+_ _ _ _ _ _ _ _ _ _ 
+Enter your guess: i
+_ _ _ i _ _ _ i _ _ 
+Enter your guess: o
+_ o _ i _ _ _ i o _ 
+Enter your guess: u
+_ o _ i _ _ _ i o _ 
+Enter your guess: a
+_ o _ i _ a _ i o _ 
+Enter your guess: l
+_ o _ i _ a _ i o _ 
+Enter your guess: c
+_ o _ i _ a _ i o _ 
+Enter your guess: d
+_ o _ i _ a _ i o _ 
+Enter your guess: h
+_ o _ i _ a _ i o _ 
+Enter your guess: l
+_ o _ i _ a _ i o _ 
+Enter your guess: m
+_ o m i _ a _ i o _ 
+Enter your guess: n
+n o m i n a _ i o n 
+Enter your guess: t
+n o m i n a t i o n 
+Do you want to play static Hangman again? (y or n): n
+Bye
