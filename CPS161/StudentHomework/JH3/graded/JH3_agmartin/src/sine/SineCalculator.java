@@ -20,8 +20,10 @@ public class SineCalculator
 	 */
 	public static double fixDomain(double angle)
 	{
-		while(angle >= Math.PI/2) angle -= Math.PI*2;
-		while(angle < 0) angle += Math.PI*2;
+//		while(angle >= Math.PI*2) angle -= Math.PI*2;
+//		while(angle < 0) angle += Math.PI*2;
+		if(angle >= Math.PI) angle -= (2*Math.PI) * Math.floor(angle / (2*Math.PI));
+		else if(angle < 0) angle += (2*Math.PI) * (Math.floor(-angle / (2*Math.PI))+1);
 		return angle;
 	}
 	

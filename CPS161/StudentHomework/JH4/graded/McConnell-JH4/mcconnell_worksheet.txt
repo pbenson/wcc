@@ -1,0 +1,135 @@
+
+***************** roman_calculator   *****************
+
+roman_calculator  output as specified in the JH4 homework.
+____________________________________
+
+Enter an Operator: + - * / q for quit: +
+Enter operand 1
+M
+Enter operand 2
+mCxV
+Answer = MMCXV
+=======================
+Enter an Operator: + - * / q for quit: -
+Enter operand 1
+XX
+Enter operand 2
+v
+Answer = XV
+=======================
+Enter an Operator: + - * / q for quit: *
+Enter operand 1
+x
+Enter operand 2
+Ix
+Answer = CX
+=======================
+Enter an Operator: + - * / q for quit: /
+Enter operand 1
+dc
+Enter operand 2
+x
+Answer = LX
+=======================
+Enter an Operator: + - * / q for quit: +
+Enter operand 1
+mmc
+Enter operand 2
+lxvii
+Answer = MMCLXVII
+=======================
+Enter an Operator: + - * / q for quit: -
+Enter operand 1
+m
+Enter operand 2
+cxi
+Answer = DCCCLXXXIX
+=======================
+Enter an Operator: + - * / q for quit: ^
+Your operator is bad ... try again:
+Enter an Operator: + - * / q for quit: +
+Enter operand 1
+axi
+Enter operand 2
+xx
+Answer = XXXI
+=======================
+Enter an Operator: + - * / q for quit: q
+Finished Roman Computation
+
+
+***************** Debugger JING video debugging roman_calculator   *****************
+Paste in your JING URL for your debug session on the Roman Calculator:
+
+Included in the zip file.
+
+*****************Hangman: object_oriented    *****************
+object_oriented Hangman output as specified in the JH4 homework.
+Enter next letter.
+a
+ _  _  _  _ a
+Enter next letter.
+e
+ _ e _  _ a
+Enter next letter.
+i
+ _ e _  _ a
+Enter next letter.
+n
+ _ e _  _ a
+Enter next letter.
+g
+ _ e _  _ a
+Enter next letter.
+s
+ _ e _  _ a
+Enter next letter.
+o
+ _ e _  _ a
+Enter next letter.
+u
+ _ e _  _ a
+Enter next letter.
+z
+ze _  _ a
+Enter next letter.
+r
+ze _ ra
+Enter next letter.
+b
+zebra
+Do you want to play object oriented Hangman again? (y or n): n
+Bye
+
+
+***************** Hangman: static_approach    *****************
+
+static_approach Hangman output as specified in the JH4 homework.
+
+Enter next letter.
+a
+ _  _  _ a _  _  _ 
+Enter next letter.
+e
+ _  _  _ a _  _ e
+Enter next letter.
+i
+ _ i _ a _  _ e
+Enter next letter.
+o
+ _ i _ a _  _ e
+Enter next letter.
+b
+ _ i _ a _  _ e
+Enter next letter.
+f
+ _ i _ affe
+Enter next letter.
+g
+gi _ affe
+Enter next letter.
+r
+giraffe
+Do you want to play object oriented Hangman again? (y or n): n
+Bye
