@@ -6,6 +6,8 @@ Ideas: Written in latter 1600s, the PM introduced us to the 3 laws, as well as l
 
 See [storyboard](https://github.com/pbenson/wcc/blob/master/GDT100/Handouts/PROJECTS/Typespecbook/TypeSpec%20Storyboard%20v1.JPG).
 
+Binding to fold flat, and when folded open, pages dimensions are 6.18 x 10 inches (golden ratio).
+
 ## Pages
 * Title Page "Newton's Principia Mathematics, presented in Nicolas Jenson's Eponymous Typeface." Looking at ideas from [original](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prinicipia-title.png/220px-Prinicipia-title.png), [Blink](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669), or [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=7FPG8A1TDZYK27S5D6YE)
 * First law (object in motions stays in motion, unless acted upon by external force) (2 pages). Images throughout use type as figure, especially showing off ligatures if possible. Also use text as area fill
