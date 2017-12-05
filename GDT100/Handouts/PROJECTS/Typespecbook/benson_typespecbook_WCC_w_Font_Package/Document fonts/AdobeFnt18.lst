@@ -1,0 +1,859 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Bold
+FamilyName:Adobe Jenson Pro
+StyleName:Bold
+MenuName:Adobe Jenson Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Bold
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:133068
+FileModTime:1302870286
+DesignSize:120
+NameArray:0,Mac,4,Adobe Jenson Pro Bold
+NameArray:0,Win,1,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Display
+MenuName:Adobe Jenson Pro Disp
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Bold Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:130100
+FileModTime:1302870288
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Display
+NameArray:0,Win,1,Adobe Jenson Pro Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldIt
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Italic
+MenuName:Adobe Jenson Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:162768
+FileModTime:1302870288
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Ital
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Italic
+NameArray:0,Win,1,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldItCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Italic Caption
+MenuName:Adobe Jenson Pro Capt
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Bold Italic Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:186592
+FileModTime:1302870290
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Ital Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Italic Caption
+NameArray:0,Win,1,Adobe Jenson Pro Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldItDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Italic Display
+MenuName:Adobe Jenson Pro Disp
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Bold Italic Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:161540
+FileModTime:1302870290
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Ital Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Italic Display
+NameArray:0,Win,1,Adobe Jenson Pro Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldItSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Italic Subhead
+MenuName:Adobe Jenson Pro Subh
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Bold Italic Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:183192
+FileModTime:1302870290
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Ital Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Italic Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-BoldSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Bold Subhead
+MenuName:Adobe Jenson Pro Subh
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Bold Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-BoldSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:149644
+FileModTime:1302870292
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Bold Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Bold Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Capt
+FamilyName:Adobe Jenson Pro
+StyleName:Caption
+MenuName:Adobe Jenson Pro Capt
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Capt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:154352
+FileModTime:1302870292
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Caption
+NameArray:0,Win,1,Adobe Jenson Pro Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Disp
+FamilyName:Adobe Jenson Pro
+StyleName:Display
+MenuName:Adobe Jenson Pro Disp
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Disp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:146640
+FileModTime:1302870292
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Display
+NameArray:0,Win,1,Adobe Jenson Pro Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-It
+FamilyName:Adobe Jenson Pro
+StyleName:Italic
+MenuName:Adobe Jenson Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Italic
+WritingScript:Roman
+OutlineFileName:\AJensonPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:183380
+FileModTime:1302870292
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro Ital
+NameArray:0,Mac,4,Adobe Jenson Pro Italic
+NameArray:0,Win,1,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-ItCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Italic Caption
+MenuName:Adobe Jenson Pro Capt
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Italic Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-ItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:185268
+FileModTime:1302870294
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro Ital Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Italic Caption
+NameArray:0,Win,1,Adobe Jenson Pro Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-ItDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Italic Display
+MenuName:Adobe Jenson Pro Disp
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Italic Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-ItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:181792
+FileModTime:1302870294
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Ital Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Italic Display
+NameArray:0,Win,1,Adobe Jenson Pro Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-ItSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Italic Subhead
+MenuName:Adobe Jenson Pro Subh
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Italic Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-ItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:184616
+FileModTime:1302870296
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Ital Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Italic Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Lt
+FamilyName:Adobe Jenson Pro
+StyleName:Light
+MenuName:Adobe Jenson Pro Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Light
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:147700
+FileModTime:1302870296
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro Lt
+NameArray:0,Mac,4,Adobe Jenson Pro Light
+NameArray:0,Win,1,Adobe Jenson Pro Lt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Light Caption
+MenuName:Adobe Jenson Pro Lt Capt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Light Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:153824
+FileModTime:1302870298
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Light Caption
+NameArray:0,Win,1,Adobe Jenson Pro Lt Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Light Display
+MenuName:Adobe Jenson Pro Lt Disp
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Light Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:129592
+FileModTime:1302870298
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Light Display
+NameArray:0,Win,1,Adobe Jenson Pro Lt Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtIt
+FamilyName:Adobe Jenson Pro
+StyleName:Light Italic
+MenuName:Adobe Jenson Pro Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Light Italic
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:180612
+FileModTime:1302870298
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Ital
+NameArray:0,Mac,4,Adobe Jenson Pro Light Italic
+NameArray:0,Win,1,Adobe Jenson Pro Lt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtItCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Light Italic Caption
+MenuName:Adobe Jenson Pro Lt Capt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Light Italic Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:185588
+FileModTime:1302870300
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Ital Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Light Italic Caption
+NameArray:0,Win,1,Adobe Jenson Pro Lt Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtItDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Light Italic Display
+MenuName:Adobe Jenson Pro Lt Disp
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Light Italic Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:161928
+FileModTime:1302870300
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Ital Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Light Italic Display
+NameArray:0,Win,1,Adobe Jenson Pro Lt Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtItSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Light Italic Subhead
+MenuName:Adobe Jenson Pro Lt Subh
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Light Italic Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:182304
+FileModTime:1302870300
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Ital Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Light Italic Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Lt Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-LtSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Light Subhead
+MenuName:Adobe Jenson Pro Lt Subh
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Light Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-LtSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:149812
+FileModTime:1302870302
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Lt Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Light Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Lt Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Regular
+FamilyName:Adobe Jenson Pro
+StyleName:Regular
+MenuName:Adobe Jenson Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:149112
+FileModTime:1302870302
+DesignSize:120
+NameArray:0,Mac,4,Adobe Jenson Pro
+NameArray:0,Win,1,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Semibold
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold
+MenuName:Adobe Jenson Pro Lt
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Semibold
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:148628
+FileModTime:1302870302
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold
+NameArray:0,Win,1,Adobe Jenson Pro Lt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Caption
+MenuName:Adobe Jenson Pro Lt Capt
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Semibold Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:154444
+FileModTime:1302870304
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Caption
+NameArray:0,Win,1,Adobe Jenson Pro Lt Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Display
+MenuName:Adobe Jenson Pro Lt Disp
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Semibold Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:147856
+FileModTime:1302870304
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Display
+NameArray:0,Win,1,Adobe Jenson Pro Lt Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldIt
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Italic
+MenuName:Adobe Jenson Pro Lt
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:185420
+FileModTime:1302870304
+DesignSize:120
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Ital
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Italic
+NameArray:0,Win,1,Adobe Jenson Pro Lt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldItCapt
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Italic Caption
+MenuName:Adobe Jenson Pro Lt Capt
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Semibold Italic Caption
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldItCapt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:187928
+FileModTime:1302870306
+DesignSize:80
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Ital Capt
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Italic Caption
+NameArray:0,Win,1,Adobe Jenson Pro Lt Capt
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldItDisp
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Italic Display
+MenuName:Adobe Jenson Pro Lt Disp
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Semibold Italic Display
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldItDisp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:181240
+FileModTime:1302870308
+DesignSize:720
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Ital Disp
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Italic Display
+NameArray:0,Win,1,Adobe Jenson Pro Lt Disp
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldItSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Italic Subhead
+MenuName:Adobe Jenson Pro Lt Subh
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Adobe Jenson Pro Semibold Italic Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldItSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:183580
+FileModTime:1302870308
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Ital Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Italic Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Lt Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-SemiboldSubh
+FamilyName:Adobe Jenson Pro
+StyleName:Semibold Subhead
+MenuName:Adobe Jenson Pro Lt Subh
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Semibold Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-SemiboldSubh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:149804
+FileModTime:1302870310
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro SmBd Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Semibold Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Lt Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AJensonPro-Subh
+FamilyName:Adobe Jenson Pro
+StyleName:Subhead
+MenuName:Adobe Jenson Pro Subh
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Jenson Pro Subhead
+WritingScript:Roman
+OutlineFileName:\AJensonPro-Subh.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:150856
+FileModTime:1302870310
+DesignSize:190
+NameArray:0,Mac,18,Adobe Jenson Pro Subh
+NameArray:0,Mac,4,Adobe Jenson Pro Subhead
+NameArray:0,Win,1,Adobe Jenson Pro Subh
+NameArray:0,Win,16,Adobe Jenson Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1398855364
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
