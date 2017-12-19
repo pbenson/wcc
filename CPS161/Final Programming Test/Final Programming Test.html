@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0094)http://gettysburg.wccnet.org/aa/web/Clem/java269W04/Web/Contents/Class_Info/ClassOverview.html -->
+<html><head><title>Final Programming Test</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
+<meta content="D:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot" name="Template">
+<style type="text/css">
+.highlighted {
+	FONT-WEIGHT: bold; COLOR: #ff0000; FONT-STYLE: italic; FONT-FAMILY: "Courier New", Courier, mono
+}
+</style>
+
+
+<link rel="stylesheet" href="Final%20Programming%20Test_files/global_styles.html" type="text/css">
+</head>
+<body>
+<h1>Final Programming Test</h1>
+<ul>
+  <li>Create a project with the name of <span class="highlighted">Final_xxxxx</span> where xxxxx is your netID. For example<span class="highlighted"> Final_chasselb</span>.</li>
+  <li>Use a package name of <span class="highlighted">final_exam,</span> and use the following instructions for writing your solution. </li>
+  <li>Once you are done, you will export a zip file that same way as you did for JH1, JH2, ... JH7. </li>
+  <li>This exported zip file should then be uploaded as an attachment to
+ this test in blackboard.  Once it is uploaded, you can submit the test 
+in blackboard. </li>
+</ul>
+<h2><img src="Final%20Programming%20Test_files/RightPrisms.png" width="712" height="294" border="3"></h2>
+<pre>You have to create a program that can compute the Surface Area and Volumes of 
+various containers that are all "Right Prisms".  This means that the ends of the 
+container are identical and the sides are perpendicular to the ends.  
+Each of your containers has different shapes: Circular, Rectangular, Triangular, and 
+Regular Polygon.  All of these containers are derived from a common abstract Container class.
+
+You will then create a class called <span class="highlighted">ContainerCollection</span> which will contain an array 
+of all of the possible Container classes.  This class will provide methods to 
+compute the totalVolume and the totalSurfaceArea of all Containers in the 
+ContainerCollection. 
+
+The geometric equations for area and perimeter are provided for the required shapes 
+as follows:
+</pre>
+<h2>Perimeter Calculations (for your getTopPerimeter methods)</h2>
+<ul>
+<li><b><i>Circle</i>-</b><br>
+return 2.0 * Math.PI * radius;
+</li>
+<li><b><i>Rectangle</i>-</b><br>
+return 2.0 * (width + length);
+</li>
+
+<li><b><i>Triange</i>-</b><br>
+return side_a + side_b + side_c;
+</li>
+
+
+<li><b><i>Regular Polygon</i>-</b><br>
+return numSides * side;
+</li>
+</ul>
+<hr>
+
+
+<h2>Area Calculations (for your getTopArea methods)</h2>
+<ul>
+<li><b><i>Circle</i>-</b><br>
+return Math.PI * radius * radius;
+</li>
+<li><b><i>Rectangle</i>-</b><br>
+return width * length;
+</li>
+
+<li><b><i>Triange</i>-</b><br>
+double s = (side_a + side_b + side_c)/2.0;<br>
+return Math.sqrt(s*(s-side_a)*(s-side_b)*(s-side_c));
+</li>
+
+
+<li><b><i>Regular Polygon</i>-</b><br>
+return numSides * side * side / ( 4*Math.tan(Math.PI/numSides));
+</li>
+</ul>
+<hr>
+
+<pre class="code">// ********************************************************
+// *******   Starter Code  ********************************
+// ********************************************************
+<span class="highlightedBkgYellow">abstract class Container</span> {
+    private double height;
+    Container(double height)
+    {
+        this.height = height;
+    }
+    abstract double getTopArea();
+    abstract double getTopPerimeter();
+    
+    double getVolume()
+    {
+        return height * getTopArea();
+    }
+    double getSurfaceArea()
+    {
+        return 2*getTopArea() + height * getTopPerimeter();
+    }
+}
+
+class CircularContainer extends Container
+{
+       <span class="highlighted"> // add appropriate data definitions</span>
+    CircularContainer(double height, double radius)
+    {
+        <span class="highlighted">// Fill in details</span>
+    }
+    <span class="highlighted">// implement required abstract methods</span>
+}
+
+class RectangularContainer extends Container
+{
+    // add appropriate data definitions
+    RectangularContainer(double height, double width, double length)
+    {
+        // Fill in details
+    }
+    // implement required abstract methods
+}
+
+class TriangularContainer extends Container
+{
+    // add appropriate data definitions
+    TriangularContainer(double height, double side_a, double side_b, double side_c)
+    {
+        // Fill in details
+    }
+    // implement required abstract methods
+}
+
+
+class RegularPolygonContainer extends Container
+{
+    // add appropriate data definitions
+    RegularPolygonContainer(double height, double side, int numSides)
+    {
+        // Fill in details
+    }
+    // implement required abstract methods
+}
+
+class ContainerCollection
+{
+    Container[] collection;
+    int numContainers;
+    int containerCount=0;
+    
+    ContainerCollection(int numContainers)
+    {
+      <span class="highlighted">  // Fill in details</span>
+    }
+    
+    void addContainer( Container c)
+    {
+       <span class="highlighted"> // Fill in details
+        // Don't forget to check to see if there is enough room
+        // in collection before adding.  Complain if you can't add Container.</span>
+    }
+    
+    double getTotalVolume()
+    {
+     <span class="highlighted">   // Fill in details to return the total volume of 
+        // all Containers in collection</span>
+    }
+    
+    double getTotalSurfaceArea()
+    {
+      <span class="highlighted">  // Fill in details to return the total surface area of 
+        // all Containers in collection</span>
+    }
+    
+<span class="highlightedBkgYellow">// DO NOT CHANGE ANYTHING IN MAIN!!!! ... this will be used to test your code</span>
+    public static void main(String[] args)
+    {
+      // Container of Various Prism Shapes
+        ContainerCollection cc = new ContainerCollection(10);
+        
+        cc.addContainer(new CircularContainer(10., 2.0)); // height, radius
+        cc.addContainer(new RectangularContainer(10., 2.0, 3.0)); // height, width, length
+        cc.addContainer(new TriangularContainer(10., 4.0, 3.0, 5.0)); // height, side_a, side_b, side_c
+        cc.addContainer(new RegularPolygonContainer(10., 1.0, 4)); // height, side, num_sides
+        
+
+        cc.addContainer(new CircularContainer(5., 2.0)); // height, radius
+        cc.addContainer(new RectangularContainer(5., 2.0, 3.0)); // height, width, length
+        cc.addContainer(new TriangularContainer(5., 4.0, 3.0, 5.0)); // height, side_a, side_b, side_c
+        cc.addContainer(new RegularPolygonContainer(5., 1.0, 4)); // height, side, num_sides
+        
+
+        cc.addContainer(new CircularContainer(2., 2.0)); // height, radius
+        cc.addContainer(new RectangularContainer(2., 2.0, 3.0)); // height, width, length
+        cc.addContainer(new TriangularContainer(2., 4.0, 3.0, 5.0)); // height, side_a, side_b, side_c
+        cc.addContainer(new RegularPolygonContainer(2., 1.0, 4)); // height, side, num_sides
+        
+        System.out.println("Total Volume of all containers = " + cc.getTotalVolume());
+        System.out.println("Total Surface Area of all containers = " + cc.getTotalSurfaceArea());
+
+      // Container of Rectangular Prisms
+        ContainerCollection ccRect = new ContainerCollection(4);
+        ccRect.addContainer(new RectangularContainer(5.123456, 2.0, 3.0)); // height, width, length
+        ccRect.addContainer(new RectangularContainer(9., 2.0, 3.0)); // height, width, length
+        ccRect.addContainer(new RectangularContainer(8., 2.0, 3.0)); // height, width, length
+        System.out.println("Total Volume of all containers for ccRect = " + ccRect.getTotalVolume());
+        System.out.println("Total Surface Area for ccRect = " + ccRect.getTotalSurfaceArea());
+
+      // Container of Circular  Prisms
+        ContainerCollection ccCirc = new ContainerCollection(4);
+        ccCirc.addContainer(new CircularContainer(1., 1.0)); // height, width, length
+        ccCirc.addContainer(new CircularContainer(10., 10.0)); // height, width, length
+        System.out.println("Total Volume of all containers for ccCirc = " + ccCirc.getTotalVolume());
+        System.out.println("Total Surface Area for ccCirc = " + ccCirc.getTotalSurfaceArea());
+
+      // Container of Triangular Prisms
+        ContainerCollection ccTri = new ContainerCollection(4);
+        ccTri.addContainer(new TriangularContainer(1., 2.0, 2.0, 3.0)); // height, width, length
+        ccTri.addContainer(new TriangularContainer(2., 1.0, 1.0, 1.0)); // height, width, length
+        System.out.println("Total Volume of all containers for ccTri = " + ccTri.getTotalVolume());
+        System.out.println("Total Surface Area for ccTri = " + ccTri.getTotalSurfaceArea());
+
+      // Container of Regular Polygon Prisms        
+        ContainerCollection ccPoly = new ContainerCollection(4);
+        ccPoly.addContainer(new RegularPolygonContainer(2., 1.0, 4)); // height, width, length
+        ccPoly.addContainer(new RegularPolygonContainer(2., 2.0, 3)); // height, width, length
+        ccPoly.addContainer(new RegularPolygonContainer(2., 3.0, 5)); // height, width, length
+        System.out.println("Total Volume of all containers for ccPoly = " + ccPoly.getTotalVolume());
+        System.out.println("Total Surface Area for ccPoly = " + ccPoly.getTotalSurfaceArea());
+    }
+}
+</pre> 
+<hr>
+<!-- #BeginDate format:Am1a -->May 7, 2015 10:57 AM<!-- #EndDate -->
+<!-- #EndDate --> 
+
+
+</body></html>

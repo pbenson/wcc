@@ -1,0 +1,12 @@
+Out of container space.
+Out of container space.
+Total Volume of all containers = 420.6283004441059
+Total Surface Area of all containers = 763.0265241302609
+Total Volume of all containers for ccRect = 132.740736
+Total Surface Area for ccRect = 257.23456
+Total Volume of all containers for ccCirc = 3144.734246243383
+Total Surface Area for ccCirc = 1269.2034320502764
+Total Volume of all containers for ccTri = 2.8503388870828816
+Total Surface Area for ccTri = 17.834652370381324
+Total Volume of all containers for ccPoly = 36.43269482573916
+Total Surface Area for ccPoly = 86.43269482573916
